@@ -2,6 +2,7 @@
  * 정수형 : int, long, short, char, byte
  * 실수형 : double, float
  * Boolean : boolean
+ * 
  */
 
 package kr.hs.dgsw.java.c1.variable;
