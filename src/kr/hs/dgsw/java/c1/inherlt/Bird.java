@@ -2,7 +2,7 @@ package kr.hs.dgsw.java.c1.inherlt;
 
 public class Bird extends Animal{
 	public void fly() {
-		System.out.println("새가 날다");
+		System.out.println("하늘을 난다.");
 	}
 	
 	public static void main(String[] args) {
