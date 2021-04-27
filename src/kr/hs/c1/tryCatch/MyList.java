@@ -1,7 +1,7 @@
 package kr.hs.c1.tryCatch;
 
 public class MyList {
-
+	//asf
 	private MyListNode head;
 
 	public void add(String value) {
