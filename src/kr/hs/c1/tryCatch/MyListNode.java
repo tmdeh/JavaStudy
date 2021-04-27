@@ -1,4 +1,4 @@
-package c1.tryCatch;
+package kr.hs.c1.tryCatch;
 
 public class MyListNode {
 	

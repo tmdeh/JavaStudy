@@ -1,4 +1,4 @@
-package c1.tryCatch;
+package kr.hs.c1.tryCatch;
 
 import java.io.BufferedReader;
 import java.io.File;
