@@ -10,7 +10,7 @@ public class Commander {
 	private Scanner scanner;
 	
 	public Commander() {
-		dir = new File("/Users");
+		dir = new File("/Users/yuseungdo");
 		scanner = new Scanner(System.in);
 	}
 	
