@@ -1,7 +1,6 @@
 package kr.hs.dgsw.java.c1.jdbc;
 
 import java.sql.Connection;
-import java.sql.Driver;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -20,7 +19,7 @@ public class JdbcStudy{
 			//데이터를 읽어 온다.
 			String sql = "SELECT * FROM phone_book where name = ?";
 			PreparedStatement pstmt = con.prepareStatement(sql);
-			pstmt.setString(1, "박지나");
+			pstmt.setString(1,"윤석현");
 			
 			ResultSet rs = pstmt.executeQuery();
 			

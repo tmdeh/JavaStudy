@@ -62,7 +62,6 @@ public class NameCard {
 		buffer.append("'phoneNumber' : '" + phoneNumber).append("', ");
 		buffer.append("'address' : '" + address);
 		buffer.append("}");
-		
 		return buffer.toString();
 	}
 }

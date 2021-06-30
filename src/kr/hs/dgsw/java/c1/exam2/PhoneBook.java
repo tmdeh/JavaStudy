@@ -1,6 +1,7 @@
 package kr.hs.dgsw.java.c1.exam2;
 
 import java.util.List;
+import java.sql.Connection;
 
 public interface PhoneBook {
 

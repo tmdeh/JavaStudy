@@ -20,6 +20,7 @@ public class Reader {
 			
 			while((line=reader.readLine()) != null) {
 				System.out.println(line);
+				System.out.println(line.getClass().getName());
 			}
 			
 			reader.close();
